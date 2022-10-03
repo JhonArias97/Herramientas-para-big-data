@@ -1,6 +1,6 @@
 # Pseudo codigo
 # 1. leer archivo .csv
-# 2. estraer el resumen
+# 2. extraer el resumen
 # 3. guardar el resumen en formato en .csv
 
 from pkgutil import get_data
